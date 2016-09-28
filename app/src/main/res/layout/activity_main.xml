@@ -48,7 +48,7 @@
                 android:layout_height="match_parent"
                 android:inputType="textPersonName"
                 android:ems="10"
-                android:id="@+id/editText"
+                android:id="@+id/addressBar"
                 android:hint="Type URL..." />
 
             <Button
